@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/20cec53e-1b7f-472e-ad3d-843f9cf06ae5
+
+
+
+https://github.com/user-attachments/assets/04787614-4371-4894-ba39-1b8541ab864f
+
 # AI War News Analyzer
 
 An AI-powered news analysis system that retrieves and summarizes war and conflict-related news based on the user’s query.
