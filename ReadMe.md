@@ -31,3 +31,7 @@ Example queries:
 - Pandas
 - NumPy
 - Google Colab
+
+
+https://github.com/user-attachments/assets/0f6af1d7-77cd-45a3-a7d2-35b67ed0991b
+
