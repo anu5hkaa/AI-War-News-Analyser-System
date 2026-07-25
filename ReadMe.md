@@ -33,5 +33,15 @@ Example queries:
 - Google Colab
 
 
-https://github.com/user-attachments/assets/0f6af1d7-77cd-45a3-a7d2-35b67ed0991b
+
+
+https://github.com/user-attachments/assets/124c979d-1b7f-4d49-92ce-68aea701d8fc
+
+
+
+
+
+
+
+
 
